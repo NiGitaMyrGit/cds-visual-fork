@@ -1,6 +1,10 @@
-numpy
-pandas
 matplotlib
 scikit-learn
 tensorflow-cpu
+<<<<<<< HEAD
 seaborn
+=======
+numpy
+pandas
+opencv-python
+>>>>>>> 6188260af5aab00189ea1e754ca79f4c89303e38
